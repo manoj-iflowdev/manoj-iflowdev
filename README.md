@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-manoj.gali695%40gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:manoj.gali695@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+(972)%20460--1721-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+9724601721)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manojgali.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manojgali.com)
 
 </div>
 
