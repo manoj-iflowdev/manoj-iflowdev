@@ -25,7 +25,7 @@ Core areas: SAP CPI iFlow development (Groovy scripting, Message Mapping, Conten
 | **Years of Experience** | 5+ |
 | **Employers** | ConocoPhillips, JPMorgan Chase, Bal Pharma, Nike |
 | **Core Platform** | SAP CPI / SAP Integration Suite / SAP BTP |
-| **Education** | MS Computer Science, Trine University (2023–2025) |
+| **Education** | MS Information Sciences, Trine University (2023–2025) |
 
 </div>
 
