@@ -23,7 +23,7 @@ Core areas: SAP CPI iFlow development (Groovy scripting, Message Mapping, Conten
 | | |
 |:-----------|:---------------:|
 | **Years of Experience** | 5+ |
-| **Employers** | ConocoPhillips, JPMorgan Chase, Bal Pharma, Nike |
+| **Employers** | CONA Services LLC, Schnider Electric |
 | **Core Platform** | SAP CPI / SAP Integration Suite / SAP BTP |
 | **Education** | MS in Information Sciences, Trine University (2023–2025) |
 
@@ -37,20 +37,11 @@ Core areas: SAP CPI iFlow development (Groovy scripting, Message Mapping, Conten
 timeline
     title Professional Journey
     section Foundation
-        2020-2021 : SAP CPI Consultant at Nike
-                  : Global retail & supply chain integrations
+        2019-2023 : SAP CPI Consultant at Schnider Electric
                   : REST, SOAP, OData, IDoc, SFTP adapters
-    section Growth
-        2022-2023 : SAP CPI Consultant at Bal Pharma
-                  : Pharmaceutical manufacturing integrations
-                  : MM, SD, PP, QM module support
-    section Financial Services
-        2024-2025 : SAP CPI Integration Consultant at JPMorgan Chase
-                  : Payment processing & banking system integrations
-                  : SAML, OAuth 2.0, encrypted channels
+
     section Current
-        2025-Present : Senior SAP CPI Integration Consultant at ConocoPhillips
-                     : Oil & gas enterprise integrations
+        2025-Present : Senior SAP CPI Integration Consultant at CONA Services LLC (Coca-Cola North American Bottling Ecosystem)
                      : SAP Clean Core, S/4HANA modernization
 ```
 
@@ -58,7 +49,7 @@ timeline
 
 ## 💼 EXPERIENCE
 
-### 🏢 ConocoPhillips — Senior SAP CPI Integration Consultant (Sep 2025 – Present)
+### 🏢 CONA Services LLC (Coca-Cola North American Bottling Ecosystem) — SAP Integration Suite Consultant (Jun 2025 – Present)
 
 - Designed and implemented enterprise integrations using SAP CPI to connect SAP S/4HANA, SAP ECC, and external systems across oil & gas business domains.
 - Built and optimized iFlows using Groovy scripting, Message Mapping, Content Modifiers, and XSLT for complex data transformations.
@@ -69,28 +60,9 @@ timeline
 - Collaborated with functional and technical teams to translate business requirements into scalable **SAP BTP** Integration Suite solutions.
 - Ensured compliance with SAP Clean Core principles and enterprise security standards.
 
-### 🏦 JPMorgan Chase — SAP CPI Integration Consultant (Oct 2024 – Aug 2025)
 
-- Designed, developed, and deployed SAP CPI integration flows (iFlows) to connect SAP S/4HANA, internal banking systems, third-party APIs, and external partner applications.
-- Implemented secure data exchanges using REST, SOAP, OData, IDoc, SFTP, and AS2 protocols to support payment processing, financial reporting, and customer account systems.
-- Configured and enhanced integration logic using Groovy scripting, Message Mapping, XSLT, Content Modifier, and Value Mapping components.
-- Ensured secure connectivity across on-premise and cloud environments using SAP Cloud Connector, OAuth 2.0, SSL certificates, and SAML.
-- Collaborated with functional teams (Finance, Risk, Compliance, Treasury) to translate business requirements into scalable **SAP BTP** Integration Suite solutions.
-- Monitored and troubleshot production and pre-production integration issues using SAP CPI Monitoring, Message Processing Logs, and custom alerts.
-- Participated in large-scale SAP S/4HANA transformation initiatives, including integration rationalization and consolidation of middleware artifacts.
-- Developed reusable integration templates and patterns to standardize integrations across business units such as payments, ledger posting, and data movement.
 
-### 💊 Bal Pharma Limited — SAP CPI Consultant (Jan 2022 – Jun 2023)
-
-- Designed and developed integration solutions using SAP CPI and SAP Integration Suite to support pharmaceutical manufacturing and business processes.
-- Implemented cloud and hybrid integrations between SAP ECC, SAP S/4HANA, and non-SAP systems.
-- Built and enhanced CPI iFlows using Groovy scripting, Message Mapping, Value Mapping, and adapters such as REST, SOAP, IDoc, RFC, and SFTP.
-- Supported integrations across core SAP modules including MM, SD, PP, and QM to enable end-to-end supply chain and production workflows.
-- Configured security mechanisms using OAuth 2.0, X.509 certificates, SSL/TLS, and secure credential storage within **SAP BTP**.
-- Implemented error handling, message monitoring, and exception management using SAP CPI Monitoring for production support.
-- Assisted in interface testing, UAT support, and production deployments.
-
-### 👟 Nike — SAP CPI Consultant (Jun 2020 – Dec 2021)
+### 👟 Schneider Electric — SAP Integration Consultant (Sep 2019 – Jun 2023)
 
 - Designed and developed enterprise integration solutions using SAP CPI and SAP Integration Suite to support global retail and supply chain operations.
 - Implemented cloud and hybrid integrations between SAP ECC, SAP S/4HANA, and multiple non-SAP systems.
