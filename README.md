@@ -12,7 +12,7 @@
 
 ## 🎯 SUMMARY
 
-Senior SAP CPI Consultant with 5+ years of experience in SAP integration technologies, specializing in SAP CPI, PI/PO, and hybrid integration landscapes. Experience designing, developing, and optimizing integration solutions across SAP and non-SAP systems at ConocoPhillips, JPMorgan Chase, Nike, and Bal Pharma.
+Senior SAP CPI Consultant with 5+ years of experience in SAP integration technologies, specializing in SAP CPI, PI/PO, and hybrid integration landscapes. Experience designing, developing, and optimizing integration solutions across SAP and non-SAP systems at CONA Services LLC (Coca-Cola North American Bottling Ecosystem), Schneider Electric.
 
 Core areas: SAP CPI iFlow development (Groovy scripting, Message Mapping, Content Modifiers, XSLT), API-led integration with SAP Integration Suite / SAP BTP, and security configuration (OAuth 2.0, X.509 certificates, SSL/TLS, SAML).
 
