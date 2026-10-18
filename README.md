@@ -51,7 +51,7 @@ timeline
 
 ### 🏢 CONA Services LLC (Coca-Cola North American Bottling Ecosystem) — SAP Integration Suite Consultant (Jun 2025 – Present)
 
-- Designed and implemented enterprise integrations using SAP CPI to connect SAP S/4HANA, SAP ECC, and external systems across oil & gas business domains.
+- Designed and implemented enterprise integrations using SAP CPI to connect SAP S/4HANA, SAP ECC, and external systems across business domains.
 - Built and optimized iFlows using Groovy scripting, Message Mapping, Content Modifiers, and XSLT for complex data transformations.
 - Developed real-time and batch integrations using REST, SOAP, OData, IDoc, and SFTP interfaces.
 - Implemented secure integration mechanisms using OAuth 2.0, SSL certificates, Basic Authentication, and SAP Cloud Connector.
